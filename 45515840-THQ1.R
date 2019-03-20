@@ -1,5 +1,5 @@
 Github username: vohuong1004
-public repository: 890THQ1
+public repository:890THQ1
 file name: 45515840-THQ1
 #Question 1
 Coupon=C
